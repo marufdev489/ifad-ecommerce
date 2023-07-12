@@ -3,9 +3,9 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
-import { Router } from "next/router";
+// import { Router } from "next/router";
 import axios from "axios";
-import { showErrorNotification, showSuccessTimerNotification } from "../helper/notificationHelper";
+// import { showErrorNotification, showSuccessTimerNotification } from "../helper/notificationHelper";
 
 
 const ChangePassword = () => {
